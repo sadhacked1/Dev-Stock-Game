@@ -1,0 +1,6 @@
+{
+  "name": "MarketQuest - Stock Market Learning Game",
+  "description": "Learn stock trading, portfolio diversification, risk management, and fundamental analysis through an interactive realistic simulation game. Made by Dev Bhati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
